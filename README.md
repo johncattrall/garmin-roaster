@@ -4,6 +4,9 @@ A Connect IQ application that helps cyclists find high-quality coffee roasters d
 
 ![Coffee Roaster Finder App](app_screenshot.png)
 
+![Generated Image](https://github.com/user-attachments/assets/6bf3d70e-460b-455b-88f5-70209f6afa6b)
+
+
 ## Features
 
 - **Find Quality Coffee Roasters**: Discovers specialty coffee roasters near your current location
